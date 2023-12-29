@@ -1,4 +1,4 @@
- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, I'm wuXinTongXue </h2>
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, I'm xiaoMingTongXue </h2>
 
 <!-- Light Mode -->
 <div>
